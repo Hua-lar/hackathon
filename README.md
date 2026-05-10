@@ -55,8 +55,8 @@ Life2Earn is dedicated to breaking these walls. We believe that life experience 
 
 | 成员 | 邮箱 | 角色 | 负责内容 |
 | :--- | :--- |
-| 王梓铧（Hua） | wangzihua5107@gmail.com | leader& | Backend Rust Development & Solana Smart Contract (Rust/Anchor) & On-chain Program Deployment & Requirements & Logic Design|
-| 成员 | 邮箱 | 角色 | 负责内容 |
+| Zihua WANG | wangzihua5107@gmail.com | leader&developer | Backend Rust Development & Solana Smart Contract (Rust/Anchor) & On-chain Program Deployment & Requirements & Logic Design|
+| zhu rong | zhurongbit@163.com | member | Frontend Development&Video Scriptwriting&Video Editing & Post-production |
 
 </details>
 
@@ -78,13 +78,13 @@ Life2Earn is dedicated to breaking these walls. We believe that life experience 
 
 * **Network**: Solana Devnet
 * **Program address**: CwaXY4fFE44fdaHr5c4A62V6pRJWDKbbFGDBPD6bHuEL
-* **Demo URL**: 
+* **Demo URL**: https://youtu.be/oHhoqhgDfaQ
 
 ---
 
 ## 🌐 在线展示 / Demo
 
-* **📺 Pitch Video**: 
+* **📺 Pitch Video**: https://youtu.be/oHhoqhgDfaQ
 * **🔗 Live Website**: https://id-preview--8facda29-9935-4a21-bb3a-837e45e7af65.lovable.app/
 
 ---
