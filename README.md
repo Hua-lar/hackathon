@@ -85,7 +85,7 @@ Life2Earn is dedicated to breaking these walls. We believe that life experience 
 ## 🌐 在线展示 / Demo
 
 * **📺 Pitch Video**: 
-* **🔗 Live Website**: 
+* **🔗 Live Website**: https://id-preview--8facda29-9935-4a21-bb3a-837e45e7af65.lovable.app/
 
 ---
 > *Life2Earn: Making Web3 work for everyone.*
