@@ -51,12 +51,13 @@ Life2Earn is dedicated to breaking these walls. We believe that life experience 
 ## 👥 团队成员与分工 | Team & Responsibilities
 
 <details>
-<summary><b>▼ 点击展开详情 / Click to expand</b></summary>
+<summary><b>点击展开详情 / Click to expand</b></summary>
+<br />
 
-| 成员 | 邮箱 | 角色 | 负责内容 |
-| :--- | :--- |
-| Zihua WANG | wangzihua5107@gmail.com | leader&developer | Backend Rust Development & Solana Smart Contract (Rust/Anchor) & On-chain Program Deployment & Requirements & Logic Design|
-| zhu rong | zhurongbit@163.com | member | Frontend Development&Video Scriptwriting&Video Editing & Post-production |
+| 成员 / Member | 角色 / Role | 负责内容 / Responsibilities |
+| :--- | :--- | :--- |
+| **Zihua WANG**<br />[wangzihua5107@gmail.com](mailto:wangzihua5107@gmail.com) | **Leader & Developer** | • Frontend Development&Backend Rust Development<br />• Solana Smart Contract (Rust/Anchor)<br />• On-chain Program Deployment<br />• Requirements & Logic Design |
+| **Zhu Rong**<br />[zhurongbit@163.com](mailto:zhurongbit@163.com) | **Member** | • Frontend Development<br />• Video Scriptwriting<br />• Video Editing & Post-production |
 
 </details>
 
@@ -78,13 +79,13 @@ Life2Earn is dedicated to breaking these walls. We believe that life experience 
 
 * **Network**: Solana Devnet
 * **Program address**: CwaXY4fFE44fdaHr5c4A62V6pRJWDKbbFGDBPD6bHuEL
-* **Demo URL**: https://youtu.be/oHhoqhgDfaQ
+* **Demo URL**: https://youtu.be/rswUIJlldC8
 
 ---
 
 ## 🌐 在线展示 / Demo
 
-* **📺 Pitch Video**: https://youtu.be/oHhoqhgDfaQ
+* **📺 Pitch Video**: https://youtu.be/rswUIJlldC8
 * **🔗 Live Website**: https://id-preview--8facda29-9935-4a21-bb3a-837e45e7af65.lovable.app/
 
 ---
