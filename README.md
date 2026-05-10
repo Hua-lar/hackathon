@@ -1,47 +1,48 @@
 # 🚀 Life2Earn: AI-Powered Talent Settlement Layer
-> **释放生活价值，重塑 Web3 收益模式 | Unleash Life Value, Reshaping Web3 Earning**
+> **让 Web3 对非技术人员真正友好：AI 驱动的全球工作匹配与 0 感交互协议**
+> **Connecting Life Talent to Global Opportunities with Zero-Friction Web3 UX**
 
 ---
 
-## 📝 简介 (痛点与背景 / Overview)
+## 📝 简介 (项目背景 / Overview)
 
 <details>
 <summary><b>▼ 中文 / 点击展开</b></summary>
 
-在传统的 Web3 生态中，普通人（非开发者）往往难以直接变现自己的生活经验。**Life2Earn** 建立了一套基于 AI Agent 的价值发现协议。
-我们利用 AI 捕捉用户在大白话经历中蕴含的“软技能”，并将其转化为链上画像。通过智能合约的资金托管机制，让每一个平凡人的生活闪光点都能在 Web3 劳动力市场中获得即时、公平的报酬反馈。
+在传统的 Web3 世界，复杂的钱包配置和昂贵的 Gas 费将 99% 的普通劳动者拒之门外。**Life2Earn** 致力于打破这一壁垒。
+我们不仅利用 AI Agent 挖掘你大白话经历中的“软技能”并匹配全球工作，更通过自动化的嵌入式钱包技术，让用户无需理解什么是“私钥”或“Gas”，就能像使用普通 App 一样在 Web3 世界获得报酬。
 
 </details>
 
 <details>
 <summary><b>▼ English / Click to expand</b></summary>
 
-In the traditional Web3 ecosystem, non-technical individuals often struggle to monetize their life experiences. **Life2Earn** establishes a value discovery protocol based on AI Agents.
-We leverage AI to capture the "soft skills" embedded in users' daily life stories and transform them into on-chain profiles. Through smart contract escrow, we ensure that every ordinary person's life highlights can receive immediate and fair rewards in the Web3 labor market.
+In the traditional Web3 world, complex wallet setups and expensive gas fees exclude 99% of ordinary workers. **Life2Earn** is committed to breaking this barrier.
+We not only use AI Agents to uncover "soft skills" from your everyday experiences and match them with global jobs, but also utilize automated embedded wallet technology. This allows users to earn in the Web3 world as easily as using a regular app, without ever needing to understand "private keys" or "gas fees."
 
 </details>
 
 ---
 
-## ⚡ 功能 / Features
+## ✨ 核心功能 / Features
 
 <details>
 <summary><b>▼ 中文 / 点击展开</b></summary>
 
-* **🧠 AI 价值解析引擎**：自然语言交互，自动提取用户性格标签、技能并生成“灵魂简历”。
-* **🔐 智能资金托管**：企业端预存报酬至合约，由智能合约保障支付安全，杜绝欠薪。
-* **⛽ 无感结算体验**：创新的“Gas 费抵扣”机制，直接从报酬中扣除微量手续费，实现零门槛领工资。
-* **🏅 链上信誉沉淀**：任务完成后自动更新用户信誉分，并将职业信用资产永久固化在 Solana 链上。
+* **🤖 AI Agent 软技能挖掘与测评**：通过自然语言对话，AI 自动解析你的生活经历，测评你的潜在职场优势，并从全球任务池中自动匹配最适合你的工作。
+* **🛡️ 0 感 Web3 体验 (嵌入式钱包)**：支持邮箱/社交账号一键登录，后台自动静默生成托管钱包。用户无需下载插件，无需备份助记词，实现真正的“无感进入”。
+* **💸 自动化薪酬结算 (智能托管)**：基于 Solana 智能合约的资金托管机制。企业确认，报酬即刻到账。
+* **⛽ 自动扣除 Gas 费**：首创“工资抵扣手续费”逻辑。用户收到的是最终报酬，无需提前持有 SOL 代币支付手续费。
 
 </details>
 
 <details>
 <summary><b>▼ English / Click to expand</b></summary>
 
-* **🧠 AI Value Parser**: Natural language interaction to extract personality tags and skills, generating a "Soul Resume."
-* **🔐 Smart Escrow**: Employers pre-deposit rewards into the contract, ensuring payment security through blockchain.
-* **⛽ Seamless Settlement**: Innovative "Gas Fee Deduction" mechanism that deducts fees directly from payouts for a zero-barrier experience.
-* **🏅 On-chain Reputation**: Automatically updates reputation scores upon task completion, solidifying professional credit on the Solana blockchain.
+* **🤖 AI Agent Skill Discovery**: AI parses your life stories through natural language, evaluates your soft skills, and automatically matches you with the best global job opportunities.
+* **🛡️ Zero-Friction UX (Embedded Wallets)**: One-click login via email or social accounts. Wallets are generated silently in the background—no extensions or seed phrases required.
+* **💸 Automated Settlement (Escrow)**: Funds are held in Solana smart contracts and released immediately upon employer approval.
+* **⛽ Gas-Less Payouts**: Gas fees are automatically deducted from the task rewards. Users receive their earnings without needing to hold SOL beforehand.
 
 </details>
 
@@ -49,33 +50,35 @@ We leverage AI to capture the "soft skills" embedded in users' daily life storie
 
 ## 🛠️ 技术栈 / Tech Stack
 
-| Category | Technology |
+| 维度 | 技术选型 |
 | :--- | :--- |
-| **Frontend** | Next.js, Lovable, Tailwind CSS |
-| **AI Agent** | GPT-4o / Agentic Logic |
-| **Blockchain** | Solana (Devnet) |
-| **Smart Contract** | Anchor Framework (Rust) |
-| **Provider** | Helius / Tatum RPC |
+| **前端框架** | Next.js, Lovable, Tailwind CSS |
+| **AI 匹配引擎** | GPT-4o / Claude 3.5 (Agentic Logic) |
+| **身份与钱包** | Privy / Web3Auth (Embedded Wallets) |
+| **底层公链** | Solana (High Speed, Low Cost) |
+| **合约框架** | Anchor Framework (Rust) |
 
 ---
 
-## 🚀 部署信息 / Deployment
+## 🚀 部署与使用 (Deployment & Usage)
 
-### 1. 智能合约 (Smart Contract)
+### 1. 0 门槛登录演示
+项目集成了嵌入式钱包 SDK，用户只需：
+1. 使用邮箱登录。
+2. AI Agent 启动对话并测评技能。
+3. 自动生成链上身份并开始匹配工作。
+
+### 2. 智能合约信息
 * **Network**: Solana Devnet
-* **Program ID**: `[在此填入你的合约地址]`
-* **Status**: Deployed & Verified
-
-### 2. 前端 (Frontend)
-* **Platform**: Vercel
-* **Demo URL**: [https://life2earn-demo.vercel.app](https://life2earn-demo.vercel.app)
+* **Program ID**: `[Your-Program-ID-Here]`
+* **Contract Logic**: 涵盖了任务创建、资金锁定、以及带有 Gas 扣除逻辑的自动支付。
 
 ---
 
 ## 🌐 在线展示 / Demo
 
-* **📺 Pitch Video**: [点击查看演示视频](你的视频链接)
-* **🔍 Explorer**: [在 Solscan 查看合约](你的Solscan链接)
+* **📺 Pitch Video**: [点击查看演示视频](你的链接)
+* **🔗 Live Application**: [访问测试网 Demo](你的链接)
 
 ---
-> *Created for the 2026 Web3 Hackathon*
+> *Life2Earn: Making Web3 work for everyone.*
