@@ -66,7 +66,7 @@ We not only use AI Agents to uncover "soft skills" from your everyday experience
 
 | 维度 | 技术选型 |
 | :--- | :--- |
-| **前端框架** | Next.js, Lovable, Tailwind CSS |
+| **前端框架** | Lovable |
 | **AI 匹配引擎** | GPT-4o / Claude 3.5 |
 | **身份与钱包** | Privy / Web3Auth (Embedded Wallets) |
 | **底层公链** | Solana (Devnet) |
@@ -77,15 +77,15 @@ We not only use AI Agents to uncover "soft skills" from your everyday experience
 ## 🚀 部署信息 / Deployment
 
 * **Network**: Solana Devnet
-* **Program ID**: `[Your-Program-ID-Here]`
-* **Demo URL**: [https://life2earn-demo.vercel.app](https://life2earn-demo.vercel.app)
+* **Program address**: CwaXY4fFE44fdaHr5c4A62V6pRJWDKbbFGDBPD6bHuEL
+* **Demo URL**: 
 
 ---
 
 ## 🌐 在线展示 / Demo
 
-* **📺 Pitch Video**: [点击查看演示视频](你的链接)
-* **🔗 Live Application**: [访问测试网 Demo](你的链接)
+* **📺 Pitch Video**: 
+* **🔗 Live Website**: 
 
 ---
 > *Life2Earn: Making Web3 work for everyone.*
