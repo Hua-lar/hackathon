@@ -9,16 +9,16 @@
 <details>
 <summary><b>▼ 中文 / 点击展开</b></summary>
 
-在传统的 Web3 世界，复杂的钱包配置和昂贵的 Gas 费将 99% 的普通劳动者拒之门外。**Life2Earn** 致力于打破这一壁垒。
-我们不仅利用 AI Agent 挖掘你大白话经历中的“软技能”并匹配全球工作，更通过自动化的嵌入式钱包技术，让用户无需理解什么是“私钥”或“Gas”，就能像使用普通 App 一样在 Web3 世界获得报酬。
+目前的 Web3 生态因过高的技术准入门槛，让很多普通人望而生畏。
+Life2Earn 致力于打破这一壁垒。我们认为生活经历即价值，通过 AI Agent 捕捉用户生活经历中的软技能并匹配全球工作。结合嵌入式钱包技术，让各行各业的普通人无需理解技术底层，即可像使用普通网站一样在 Web3 世界获得报酬，实现“无感参与，真实收益”。
 
 </details>
 
 <details>
 <summary><b>▼ English / Click to expand</b></summary>
 
-In the traditional Web3 world, complex wallet setups and expensive gas fees exclude 99% of ordinary workers. **Life2Earn** is committed to breaking this barrier.
-We not only use AI Agents to uncover "soft skills" from your everyday experiences and match them with global jobs, but also utilize automated embedded wallet technology. This allows users to earn in the Web3 world as easily as using a regular app, without ever needing to understand "private keys" or "gas fees."
+The current Web3 ecosystem, burdened by high technical entry barriers, often feels intimidating to everyday people.
+Life2Earn is dedicated to breaking these walls. We believe that life experience is value. Through our AI Agent, we capture the soft skills hidden within a user's life journey and match them with global opportunities. By integrating embedded wallet technology, we empower people from all walks of life to earn rewards in the Web3 world as easily as using a regular website—no underlying technical knowledge required. We make "seamless participation and tangible earnings" a reality for everyone.
 
 </details>
 
