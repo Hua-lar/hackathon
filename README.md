@@ -1,6 +1,6 @@
 # 🚀 Life2Earn
-> **让 Web3 对非技术人员真正友好：AI 驱动的全球工作匹配与 0 感交互协议**
-> **Connecting Life Talent to Global Opportunities with Zero-Friction Web3 UX**
+> **Life2Earn 是一款低门槛的 Web3 劳动力生态平台，利用 AI 挖掘用户生活经历中的软技能，并实现自动化的链上报酬结算。**
+> **Life2Earn is a low-barrier Web3 talent ecosystem that leverages AI to uncover soft skills from life experiences and enables automated on-chain settlements.**
 
 ---
 
@@ -53,10 +53,10 @@ Life2Earn is dedicated to breaking these walls. We believe that life experience 
 <details>
 <summary><b>▼ 点击展开详情 / Click to expand</b></summary>
 
-| 成员 | 角色 | 负责内容 | 邮箱 | 
-| :--- | :--- | :--- |
-| **Zihua** | **Project Lead & Frontend** | 负责项目整体构思、产品原型设计、Lovable 前端 UI 开发以及 AI Agent 指令工程（Prompt Engineering）。 || 
-| **Partner Name** | **Blockchain & Backend** | 负责 Solana 智能合约（Rust/Anchor）编写、嵌入式钱包集成（Privy/Web3Auth）以及后端 API 逻辑。 || 
+| 成员 | 邮箱 | 角色 | 负责内容 |
+| :--- | :--- |
+| 王梓铧（Hua） | wangzihua5107@gmail.com | leader& | Backend Rust Development & Solana Smart Contract (Rust/Anchor) & On-chain Program Deployment & Requirements & Logic Design|
+| 成员 | 邮箱 | 角色 | 负责内容 |
 
 </details>
 
